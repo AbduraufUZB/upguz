@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "567506218009",
+    "project_id": "upguzapp-42f92",
+    "storage_bucket": "upguzapp-42f92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567506218009:android:2d328c674458880610ce88",
+        "android_client_info": {
+          "package_name": "com.upguz.upguzapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567506218009-0nvecbkgl6m26u3eif8u175qogqqm6ee.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.upguz.upguzapp",
+            "certificate_hash": "eb646ee84ada77fa6e3dc0365fdb5a133fb27920"
+          }
+        },
+        {
+          "client_id": "567506218009-2nn0pmu3t6o0afdfo19sk51uunhl9aes.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAURy9MiKhZuZYej5UuJyHTHzdjrMDDPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567506218009-2nn0pmu3t6o0afdfo19sk51uunhl9aes.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
